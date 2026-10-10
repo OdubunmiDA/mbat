@@ -1,0 +1,122 @@
+[
+ {
+  "ndc": "65162041503",
+  "form": "sublingual_tablet",
+  "concept": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+  "mg": "8"
+ },
+ {
+  "ndc": "60687049221",
+  "form": "sublingual_tablet",
+  "concept": "buprenorphine 8 MG Sublingual Tablet",
+  "mg": "8"
+ },
+ {
+  "ndc": "42858060103",
+  "form": "sublingual_tablet",
+  "concept": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+  "mg": "2"
+ },
+ {
+  "ndc": "72888018330",
+  "form": "sublingual_tablet",
+  "concept": "buprenorphine 8 MG Sublingual Tablet",
+  "mg": "8"
+ },
+ {
+  "ndc": "00904701006",
+  "form": "sublingual_tablet",
+  "concept": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+  "mg": "8"
+ },
+ {
+  "ndc": "12496121203",
+  "form": "sublingual_film",
+  "concept": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]",
+  "mg": "12"
+ },
+ {
+  "ndc": "00378876693",
+  "form": "sublingual_film",
+  "concept": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+  "mg": "4"
+ },
+ {
+  "ndc": "12496120401",
+  "form": "sublingual_film",
+  "concept": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]",
+  "mg": "4"
+ },
+ {
+  "ndc": "00781723806",
+  "form": "sublingual_film",
+  "concept": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+  "mg": "8"
+ },
+ {
+  "ndc": "52427069411",
+  "form": "sublingual_film",
+  "concept": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+  "mg": "4"
+ },
+ {
+  "ndc": "59385002301",
+  "form": "buccal_film",
+  "concept": "buprenorphine 0.3 MG Buccal Film [Belbuca]",
+  "mg": ""
+ },
+ {
+  "ndc": "59385002401",
+  "form": "buccal_film",
+  "concept": "buprenorphine 0.45 MG Buccal Film [Belbuca]",
+  "mg": ""
+ },
+ {
+  "ndc": "59385002160",
+  "form": "buccal_film",
+  "concept": "buprenorphine 0.075 MG Buccal Film [Belbuca]",
+  "mg": ""
+ },
+ {
+  "ndc": "12496030002",
+  "form": "er_injection",
+  "concept": "1.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+  "mg": ""
+ },
+ {
+  "ndc": "58284020801",
+  "form": "er_injection",
+  "concept": "0.16 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+  "mg": ""
+ },
+ {
+  "ndc": "12496010002",
+  "form": "er_injection",
+  "concept": "0.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+  "mg": ""
+ },
+ {
+  "ndc": "42858075040",
+  "form": "transdermal",
+  "concept": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+  "mg": ""
+ },
+ {
+  "ndc": "47781040604",
+  "form": "transdermal",
+  "concept": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+  "mg": ""
+ },
+ {
+  "ndc": "70069002705",
+  "form": "injection_0.3mg_ml",
+  "concept": "1 ML buprenorphine 0.3 MG/ML Injection",
+  "mg": ""
+ },
+ {
+  "ndc": "00143924605",
+  "form": "injection_0.3mg_ml",
+  "concept": "1 ML buprenorphine 0.3 MG/ML Injection",
+  "mg": ""
+ }
+]

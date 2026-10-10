@@ -1,0 +1,8109 @@
+{
+ "retrieved_utc": "2026-10-08T01:20:54.031Z",
+ "endpoint": "https://rxnav.nlm.nih.gov/REST/ndcstatus.json?ndc=<ndc11>",
+ "version": {
+  "version": "05-Oct-2026",
+  "apiVersion": "3.1.356"
+ },
+ "results": {
+  "00054017613": {
+   "ndc11": "00054017613",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "200911",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00054018813": {
+   "ndc11": "00054018813",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201408",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00054017713": {
+   "ndc11": "00054017713",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "200911",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00054018913": {
+   "ndc11": "00054018913",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201408",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00074116201": {
+   "ndc11": "00074116201",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012404",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201403"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074116202": {
+   "ndc11": "00074116202",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012404",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201102"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074115902": {
+   "ndc11": "00074115902",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012396",
+   "conceptName": "bupivacaine hydrochloride 2.5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "1012396",
+     "startDate": "201010",
+     "endDate": "201102"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "282472",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074116301": {
+   "ndc11": "00074116301",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012404",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201102"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074574801": {
+   "ndc11": "00074574801",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012404",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201102"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200707",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074904401": {
+   "ndc11": "00074904401",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012384",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012384",
+     "originalRxcui": "1012384",
+     "startDate": "201010",
+     "endDate": "201108"
+    },
+    {
+     "activeRxcui": "1012384",
+     "originalRxcui": "308818",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00074904202": {
+   "ndc11": "00074904202",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1012377",
+   "conceptName": "bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012377",
+     "originalRxcui": "1012377",
+     "startDate": "201010",
+     "endDate": "201102"
+    },
+    {
+     "activeRxcui": "1012377",
+     "originalRxcui": "317067",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00093360040": {
+   "ndc11": "00093360040",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "201707",
+     "endDate": "202103"
+    }
+   ]
+  },
+  "00093323940": {
+   "ndc11": "00093323940",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542997",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542997",
+     "originalRxcui": "1542997",
+     "startDate": "202202",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093360121": {
+   "ndc11": "00093360121",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "201707",
+     "endDate": "202604"
+    }
+   ]
+  },
+  "00093360140": {
+   "ndc11": "00093360140",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "201707",
+     "endDate": "202103"
+    }
+   ]
+  },
+  "00093360021": {
+   "ndc11": "00093360021",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "201707",
+     "endDate": "202604"
+    }
+   ]
+  },
+  "00093360240": {
+   "ndc11": "00093360240",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "201707",
+     "endDate": "202103"
+    }
+   ]
+  },
+  "00093360321": {
+   "ndc11": "00093360321",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "201707",
+     "endDate": "202604"
+    }
+   ]
+  },
+  "00093360340": {
+   "ndc11": "00093360340",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "201707",
+     "endDate": "202103"
+    }
+   ]
+  },
+  "00093365721": {
+   "ndc11": "00093365721",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365621": {
+   "ndc11": "00093365621",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365740": {
+   "ndc11": "00093365740",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365640": {
+   "ndc11": "00093365640",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365821": {
+   "ndc11": "00093365821",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365840": {
+   "ndc11": "00093365840",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365940": {
+   "ndc11": "00093365940",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093365921": {
+   "ndc11": "00093365921",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "201901",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00093537856": {
+   "ndc11": "00093537856",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201006",
+     "endDate": "202106"
+    }
+   ]
+  },
+  "00093570301": {
+   "ndc11": "00093570301",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "993524",
+   "conceptName": "Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Buproban]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "993524",
+     "startDate": "201008",
+     "endDate": "201904"
+    },
+    {
+     "activeRxcui": "",
+     "originalRxcui": "848753",
+     "startDate": "200906",
+     "endDate": "201005"
+    },
+    {
+     "activeRxcui": "993518",
+     "originalRxcui": "199677",
+     "startDate": "200706",
+     "endDate": "200708"
+    },
+    {
+     "activeRxcui": "993541",
+     "originalRxcui": "199677",
+     "startDate": "200706",
+     "endDate": "200708"
+    },
+    {
+     "activeRxcui": "",
+     "originalRxcui": "581653",
+     "startDate": "200706",
+     "endDate": "200708"
+    }
+   ]
+  },
+  "00093572056": {
+   "ndc11": "00093572056",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201501",
+     "endDate": "202005"
+    }
+   ]
+  },
+  "00093537956": {
+   "ndc11": "00093537956",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201006",
+     "endDate": "202106"
+    }
+   ]
+  },
+  "00093572156": {
+   "ndc11": "00093572156",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201501",
+     "endDate": "202005"
+    }
+   ]
+  },
+  "00095024001": {
+   "ndc11": "00095024001",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "210085",
+   "conceptName": "acetaminophen 650 MG / butalbital 50 MG Oral Tablet [Bupap]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "210085",
+     "startDate": "200706",
+     "endDate": "201504"
+    },
+    {
+     "activeRxcui": "197428",
+     "originalRxcui": "197428",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "00121101830": {
+   "ndc11": "00121101830",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202309",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00121101930": {
+   "ndc11": "00121101930",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00121203830": {
+   "ndc11": "00121203830",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00095300001": {
+   "ndc11": "00095300001",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1428622",
+   "conceptName": "acetaminophen 300 MG / butalbital 50 MG Oral Tablet [Bupap]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1428622",
+     "originalRxcui": "1428622",
+     "startDate": "201308",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00121203630": {
+   "ndc11": "00121203630",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202309",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00143924605": {
+   "ndc11": "00143924605",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "201912",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00228315303": {
+   "ndc11": "00228315303",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00228315473": {
+   "ndc11": "00228315473",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201503",
+     "endDate": "202302"
+    }
+   ]
+  },
+  "00228315603": {
+   "ndc11": "00228315603",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00228315503": {
+   "ndc11": "00228315503",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201203",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00228315403": {
+   "ndc11": "00228315403",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201304",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00228315567": {
+   "ndc11": "00228315567",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201512",
+     "endDate": "202602"
+    }
+   ]
+  },
+  "00378092393": {
+   "ndc11": "00378092393",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201504",
+     "endDate": "202609"
+    }
+   ]
+  },
+  "00228315573": {
+   "ndc11": "00228315573",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201503",
+     "endDate": "202302"
+    }
+   ]
+  },
+  "00378876593": {
+   "ndc11": "00378876593",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876793": {
+   "ndc11": "00378876793",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876516": {
+   "ndc11": "00378876516",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378092493": {
+   "ndc11": "00378092493",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201504",
+     "endDate": "202609"
+    }
+   ]
+  },
+  "00378876616": {
+   "ndc11": "00378876616",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876693": {
+   "ndc11": "00378876693",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876716": {
+   "ndc11": "00378876716",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00406192403": {
+   "ndc11": "00406192403",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00406802003": {
+   "ndc11": "00406802003",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201801",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876816": {
+   "ndc11": "00378876816",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00409115902": {
+   "ndc11": "00409115902",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1725082",
+   "conceptName": "30 ML bupivacaine hydrochloride 2.5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1725082",
+     "originalRxcui": "1725082",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "1012396",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "282472",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00406800503": {
+   "ndc11": "00406800503",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201801",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00378876893": {
+   "ndc11": "00378876893",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00406192303": {
+   "ndc11": "00406192303",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00409115901": {
+   "ndc11": "00409115901",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1725078",
+   "conceptName": "10 ML bupivacaine hydrochloride 2.5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1725078",
+     "originalRxcui": "1725078",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "1012396",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "282472",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409116502": {
+   "ndc11": "00409116502",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1724786",
+   "conceptName": "30 ML bupivacaine hydrochloride 7.5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1724786",
+     "originalRxcui": "1724786",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1724784",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724786",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724787",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724784",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1724786",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1724787",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409116301": {
+   "ndc11": "00409116301",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1012404",
+   "conceptName": "bupivacaine hydrochloride 5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409116001": {
+   "ndc11": "00409116001",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1012396",
+   "conceptName": "bupivacaine hydrochloride 2.5 MG/ML Injectable Solution",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "1012396",
+     "startDate": "201010",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012396",
+     "originalRxcui": "282472",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409116201": {
+   "ndc11": "00409116201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1724880",
+   "conceptName": "10 ML bupivacaine hydrochloride 5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1724880",
+     "originalRxcui": "1724880",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409116501": {
+   "ndc11": "00409116501",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1724787",
+   "conceptName": "10 ML bupivacaine hydrochloride 7.5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1724787",
+     "originalRxcui": "1724787",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1724784",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724786",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724787",
+     "originalRxcui": "1012407",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1724784",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1724786",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1724787",
+     "originalRxcui": "308819",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409201232": {
+   "ndc11": "00409201232",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1655032",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Cartridge",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1655032",
+     "originalRxcui": "1655032",
+     "startDate": "201507",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "200706",
+     "endDate": "201506"
+    }
+   ]
+  },
+  "00409116202": {
+   "ndc11": "00409116202",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1724884",
+   "conceptName": "30 ML bupivacaine hydrochloride 5 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1724884",
+     "originalRxcui": "1724884",
+     "startDate": "201601",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "1012404",
+     "startDate": "201010",
+     "endDate": "201512"
+    },
+    {
+     "activeRxcui": "1012404",
+     "originalRxcui": "282473",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00409201203": {
+   "ndc11": "00409201203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1655032",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Cartridge",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1655032",
+     "originalRxcui": "1655032",
+     "startDate": "201704",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781722706": {
+   "ndc11": "00781722706",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00409904201": {
+   "ndc11": "00409904201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1867594",
+   "conceptName": "10 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1867594",
+     "originalRxcui": "1867594",
+     "startDate": "201703",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "1012377",
+     "originalRxcui": "1012377",
+     "startDate": "201010",
+     "endDate": "201702"
+    },
+    {
+     "activeRxcui": "1012377",
+     "originalRxcui": "317067",
+     "startDate": "200706",
+     "endDate": "201009"
+    }
+   ]
+  },
+  "00781722764": {
+   "ndc11": "00781722764",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781724906": {
+   "ndc11": "00781724906",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781723806": {
+   "ndc11": "00781723806",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781721664": {
+   "ndc11": "00781721664",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781721606": {
+   "ndc11": "00781721606",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781723864": {
+   "ndc11": "00781723864",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00904715404": {
+   "ndc11": "00904715404",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202203",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00904715504": {
+   "ndc11": "00904715504",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202203",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00904701006": {
+   "ndc11": "00904701006",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202101",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496010005": {
+   "ndc11": "12496010005",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996189",
+   "conceptName": "0.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996189",
+     "originalRxcui": "1996189",
+     "startDate": "201802",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00904700906": {
+   "ndc11": "00904700906",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202104",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496010001": {
+   "ndc11": "12496010001",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996189",
+   "conceptName": "0.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996189",
+     "originalRxcui": "1996189",
+     "startDate": "201802",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "00781724964": {
+   "ndc11": "00781724964",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201902",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496075701": {
+   "ndc11": "12496075701",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "205533",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection [Buprenex]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "205533",
+     "originalRxcui": "205533",
+     "startDate": "200706",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "12496030005": {
+   "ndc11": "12496030005",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996193",
+   "conceptName": "1.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996193",
+     "originalRxcui": "1996193",
+     "startDate": "201802",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120401": {
+   "ndc11": "12496120401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307058",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307058",
+     "originalRxcui": "1307058",
+     "startDate": "201210",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496030002": {
+   "ndc11": "12496030002",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996193",
+   "conceptName": "1.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996193",
+     "originalRxcui": "1996193",
+     "startDate": "201802",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496030001": {
+   "ndc11": "12496030001",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996193",
+   "conceptName": "1.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996193",
+     "originalRxcui": "1996193",
+     "startDate": "201804",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496075705": {
+   "ndc11": "12496075705",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "205533",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection [Buprenex]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "205533",
+     "originalRxcui": "205533",
+     "startDate": "201412",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496010002": {
+   "ndc11": "12496010002",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1996189",
+   "conceptName": "0.5 ML buprenorphine 200 MG/ML Prefilled Syringe [Sublocade]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1996189",
+     "originalRxcui": "1996189",
+     "startDate": "201802",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120201": {
+   "ndc11": "12496120201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010603",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010603",
+     "originalRxcui": "1010603",
+     "startDate": "201010",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120803": {
+   "ndc11": "12496120803",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010606",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "1010606",
+     "startDate": "201010",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496121201": {
+   "ndc11": "12496121201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307063",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307063",
+     "originalRxcui": "1307063",
+     "startDate": "201210",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120801": {
+   "ndc11": "12496120801",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010606",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "1010606",
+     "startDate": "201010",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120203": {
+   "ndc11": "12496120203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010603",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010603",
+     "originalRxcui": "1010603",
+     "startDate": "201010",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496121203": {
+   "ndc11": "12496121203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307063",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307063",
+     "originalRxcui": "1307063",
+     "startDate": "201210",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496120403": {
+   "ndc11": "12496120403",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307058",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307058",
+     "originalRxcui": "1307058",
+     "startDate": "201210",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496130602": {
+   "ndc11": "12496130602",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1010609",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "1010609",
+     "startDate": "201010",
+     "endDate": "201603"
+    },
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "991449",
+     "startDate": "201006",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "352291",
+     "startDate": "200706",
+     "endDate": "201005"
+    },
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "12496127802": {
+   "ndc11": "12496127802",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "404413",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet [Subutex]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "404413",
+     "startDate": "200706",
+     "endDate": "201212"
+    },
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "42023017901": {
+   "ndc11": "42023017901",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "201509",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "16729055010": {
+   "ndc11": "16729055010",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202103",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496128302": {
+   "ndc11": "12496128302",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1010608",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "1010608",
+     "startDate": "201010",
+     "endDate": "201603"
+    },
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "991444",
+     "startDate": "201006",
+     "endDate": "201009"
+    },
+    {
+     "activeRxcui": "1010606",
+     "originalRxcui": "352290",
+     "startDate": "200706",
+     "endDate": "201005"
+    },
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "42858035340": {
+   "ndc11": "42858035340",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542997",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542997",
+     "originalRxcui": "1542997",
+     "startDate": "201708",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858050103": {
+   "ndc11": "42858050103",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201705",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42023017905": {
+   "ndc11": "42023017905",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "201509",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "16729054910": {
+   "ndc11": "16729054910",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202103",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "12496131002": {
+   "ndc11": "12496131002",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "404414",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet [Subutex]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "404414",
+     "startDate": "200706",
+     "endDate": "201212"
+    },
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "42858060203": {
+   "ndc11": "42858060203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858049340": {
+   "ndc11": "42858049340",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "201708",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858060103": {
+   "ndc11": "42858060103",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598057930": {
+   "ndc11": "43598057930",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858075040": {
+   "ndc11": "42858075040",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "201708",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858083940": {
+   "ndc11": "42858083940",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "201708",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858058640": {
+   "ndc11": "42858058640",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "201708",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "42858050203": {
+   "ndc11": "42858050203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201705",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058130": {
+   "ndc11": "43598058130",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598057901": {
+   "ndc11": "43598057901",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058101": {
+   "ndc11": "43598058101",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058230": {
+   "ndc11": "43598058230",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058001": {
+   "ndc11": "43598058001",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035511": {
+   "ndc11": "47781035511",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058030": {
+   "ndc11": "43598058030",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "43598058201": {
+   "ndc11": "43598058201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201807",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035711": {
+   "ndc11": "47781035711",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035703": {
+   "ndc11": "47781035703",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781040604": {
+   "ndc11": "47781040604",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "202208",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035611": {
+   "ndc11": "47781035611",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035503": {
+   "ndc11": "47781035503",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035603": {
+   "ndc11": "47781035603",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035811": {
+   "ndc11": "47781035811",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781035803": {
+   "ndc11": "47781035803",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201903",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781042574": {
+   "ndc11": "47781042574",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716069",
+   "conceptName": "buprenorphine 0.45 MG Buccal Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716069",
+     "originalRxcui": "1716069",
+     "startDate": "202109",
+     "endDate": "202409"
+    }
+   ]
+  },
+  "47781041904": {
+   "ndc11": "47781041904",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "202208",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781040804": {
+   "ndc11": "47781040804",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "202208",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781040074": {
+   "ndc11": "47781040074",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716065",
+   "conceptName": "buprenorphine 0.3 MG Buccal Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716065",
+     "originalRxcui": "1716065",
+     "startDate": "202109",
+     "endDate": "202409"
+    }
+   ]
+  },
+  "47781047574": {
+   "ndc11": "47781047574",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716086",
+   "conceptName": "buprenorphine 0.9 MG Buccal Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716086",
+     "originalRxcui": "1716086",
+     "startDate": "202109",
+     "endDate": "202409"
+    }
+   ]
+  },
+  "50268012815": {
+   "ndc11": "50268012815",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781040704": {
+   "ndc11": "47781040704",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "202208",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "47781047374": {
+   "ndc11": "47781047374",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716073",
+   "conceptName": "buprenorphine 0.6 MG Buccal Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716073",
+     "originalRxcui": "1716073",
+     "startDate": "202109",
+     "endDate": "202409"
+    }
+   ]
+  },
+  "50268014411": {
+   "ndc11": "50268014411",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201701",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268012915": {
+   "ndc11": "50268012915",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268014515": {
+   "ndc11": "50268014515",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201701",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50383029493": {
+   "ndc11": "50383029493",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201601",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268014415": {
+   "ndc11": "50268014415",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201701",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268012811": {
+   "ndc11": "50268012811",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268012911": {
+   "ndc11": "50268012911",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50268014511": {
+   "ndc11": "50268014511",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201701",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50383093093": {
+   "ndc11": "50383093093",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201108",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742036530": {
+   "ndc11": "50742036530",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50383028793": {
+   "ndc11": "50383028793",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201601",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742036430": {
+   "ndc11": "50742036430",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742036401": {
+   "ndc11": "50742036401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50383092493": {
+   "ndc11": "50383092493",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201108",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037304": {
+   "ndc11": "50742037304",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542997",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542997",
+     "originalRxcui": "1542997",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742036501": {
+   "ndc11": "50742036501",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742039730": {
+   "ndc11": "50742039730",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "202504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037601": {
+   "ndc11": "50742037601",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037204": {
+   "ndc11": "50742037204",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037504": {
+   "ndc11": "50742037504",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037404": {
+   "ndc11": "50742037404",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742037604": {
+   "ndc11": "50742037604",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742039830": {
+   "ndc11": "50742039830",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "202504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742039701": {
+   "ndc11": "50742039701",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "202504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427069811": {
+   "ndc11": "52427069811",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427069211": {
+   "ndc11": "52427069211",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010600",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010600",
+     "originalRxcui": "1010600",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427069403": {
+   "ndc11": "52427069403",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427071211": {
+   "ndc11": "52427071211",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "51862060830": {
+   "ndc11": "51862060830",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202106",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "50742039801": {
+   "ndc11": "50742039801",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "202504",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427069411": {
+   "ndc11": "52427069411",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307056",
+   "conceptName": "buprenorphine 4 MG / naloxone 1 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307056",
+     "originalRxcui": "1307056",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52427069803": {
+   "ndc11": "52427069803",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1010604",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1010604",
+     "originalRxcui": "1010604",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "54123095730": {
+   "ndc11": "54123095730",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1431104",
+   "conceptName": "buprenorphine 5.7 MG / naloxone 1.4 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1431104",
+     "originalRxcui": "1431104",
+     "startDate": "201308",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "54123090730": {
+   "ndc11": "54123090730",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1864414",
+   "conceptName": "buprenorphine 0.7 MG / naloxone 0.18 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1864414",
+     "originalRxcui": "1864414",
+     "startDate": "201702",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "55390010010": {
+   "ndc11": "55390010010",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "200706",
+     "endDate": "201709"
+    }
+   ]
+  },
+  "52427071203": {
+   "ndc11": "52427071203",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1307061",
+   "conceptName": "buprenorphine 12 MG / naloxone 3 MG Sublingual Film",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1307061",
+     "originalRxcui": "1307061",
+     "startDate": "201906",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "54123011430": {
+   "ndc11": "54123011430",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1597570",
+   "conceptName": "buprenorphine 11.4 MG / naloxone 2.9 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1597570",
+     "originalRxcui": "1597570",
+     "startDate": "201502",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "54123091430": {
+   "ndc11": "54123091430",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1431083",
+   "conceptName": "buprenorphine 1.4 MG / naloxone 0.36 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1431083",
+     "originalRxcui": "1431083",
+     "startDate": "201308",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "52440010014": {
+   "ndc11": "52440010014",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1797655",
+   "conceptName": "buprenorphine 74.2 MG Drug Implant [Probuphine]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "1797655",
+     "startDate": "201901",
+     "endDate": "202411"
+    }
+   ]
+  },
+  "54123092930": {
+   "ndc11": "54123092930",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1666385",
+   "conceptName": "buprenorphine 2.9 MG / naloxone 0.71 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1666385",
+     "originalRxcui": "1666385",
+     "startDate": "201510",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284022891": {
+   "ndc11": "58284022891",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639044",
+   "conceptName": "0.36 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639044",
+     "originalRxcui": "2639044",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284022401": {
+   "ndc11": "58284022401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639032",
+   "conceptName": "0.48 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639032",
+     "originalRxcui": "2639032",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284021601": {
+   "ndc11": "58284021601",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639030",
+   "conceptName": "0.32 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639030",
+     "originalRxcui": "2639030",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284010014": {
+   "ndc11": "58284010014",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1797655",
+   "conceptName": "buprenorphine 74.2 MG Drug Implant [Probuphine]",
+   "conceptStatus": "OBSOLETE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "",
+     "originalRxcui": "1797655",
+     "startDate": "201607",
+     "endDate": "202505"
+    }
+   ]
+  },
+  "58284020891": {
+   "ndc11": "58284020891",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639027",
+   "conceptName": "0.16 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639027",
+     "originalRxcui": "2639027",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "54123098630": {
+   "ndc11": "54123098630",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1597575",
+   "conceptName": "buprenorphine 8.6 MG / naloxone 2.1 MG Sublingual Tablet [Zubsolv]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1597575",
+     "originalRxcui": "1597575",
+     "startDate": "201502",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284020801": {
+   "ndc11": "58284020801",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639027",
+   "conceptName": "0.16 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639027",
+     "originalRxcui": "2639027",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284021691": {
+   "ndc11": "58284021691",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639030",
+   "conceptName": "0.32 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639030",
+     "originalRxcui": "2639030",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59011075104": {
+   "ndc11": "59011075104",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904874",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System [BuTrans]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904874",
+     "originalRxcui": "904874",
+     "startDate": "201004",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284029691": {
+   "ndc11": "58284029691",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639042",
+   "conceptName": "0.27 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639042",
+     "originalRxcui": "2639042",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284023201": {
+   "ndc11": "58284023201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639034",
+   "conceptName": "0.64 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639034",
+     "originalRxcui": "2639034",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284022801": {
+   "ndc11": "58284022801",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639044",
+   "conceptName": "0.36 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639044",
+     "originalRxcui": "2639044",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284023291": {
+   "ndc11": "58284023291",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639034",
+   "conceptName": "0.64 ML buprenorphine 50 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639034",
+     "originalRxcui": "2639034",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284029601": {
+   "ndc11": "58284029601",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639042",
+   "conceptName": "0.27 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639042",
+     "originalRxcui": "2639042",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284026491": {
+   "ndc11": "58284026491",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639039",
+   "conceptName": "0.18 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639039",
+     "originalRxcui": "2639039",
+     "startDate": "202312",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "58284026401": {
+   "ndc11": "58284026401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "2639039",
+   "conceptName": "0.18 ML buprenorphine 356 MG/ML Prefilled Syringe [Brixadi]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "2639039",
+     "originalRxcui": "2639039",
+     "startDate": "202307",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001601": {
+   "ndc11": "59385001601",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1544856",
+   "conceptName": "buprenorphine 6.3 MG / naloxone 1 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1544856",
+     "originalRxcui": "1544856",
+     "startDate": "201409",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59011075004": {
+   "ndc11": "59011075004",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904882",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System [BuTrans]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904882",
+     "originalRxcui": "904882",
+     "startDate": "201004",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59011075704": {
+   "ndc11": "59011075704",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542999",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System [BuTrans]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542999",
+     "originalRxcui": "1542999",
+     "startDate": "201408",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001401": {
+   "ndc11": "59385001401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1544853",
+   "conceptName": "buprenorphine 4.2 MG / naloxone 0.7 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1544853",
+     "originalRxcui": "1544853",
+     "startDate": "201409",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59011075804": {
+   "ndc11": "59011075804",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432971",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System [BuTrans]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432971",
+     "originalRxcui": "1432971",
+     "startDate": "201309",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59011075204": {
+   "ndc11": "59011075204",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904878",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System [BuTrans]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904878",
+     "originalRxcui": "904878",
+     "startDate": "201004",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001230": {
+   "ndc11": "59385001230",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542396",
+   "conceptName": "buprenorphine 2.1 MG / naloxone 0.3 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542396",
+     "originalRxcui": "1542396",
+     "startDate": "201408",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001201": {
+   "ndc11": "59385001201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542396",
+   "conceptName": "buprenorphine 2.1 MG / naloxone 0.3 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542396",
+     "originalRxcui": "1542396",
+     "startDate": "201409",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001430": {
+   "ndc11": "59385001430",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1544853",
+   "conceptName": "buprenorphine 4.2 MG / naloxone 0.7 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1544853",
+     "originalRxcui": "1544853",
+     "startDate": "201409",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002160": {
+   "ndc11": "59385002160",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716079",
+   "conceptName": "buprenorphine 0.075 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716079",
+     "originalRxcui": "1716079",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002101": {
+   "ndc11": "59385002101",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716079",
+   "conceptName": "buprenorphine 0.075 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716079",
+     "originalRxcui": "1716079",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385001630": {
+   "ndc11": "59385001630",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1544856",
+   "conceptName": "buprenorphine 6.3 MG / naloxone 1 MG Buccal Film [Bunavail]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1544856",
+     "originalRxcui": "1544856",
+     "startDate": "201409",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002201": {
+   "ndc11": "59385002201",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716063",
+   "conceptName": "buprenorphine 0.15 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716063",
+     "originalRxcui": "1716063",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002401": {
+   "ndc11": "59385002401",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716071",
+   "conceptName": "buprenorphine 0.45 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716071",
+     "originalRxcui": "1716071",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002301": {
+   "ndc11": "59385002301",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716067",
+   "conceptName": "buprenorphine 0.3 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716067",
+     "originalRxcui": "1716067",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002260": {
+   "ndc11": "59385002260",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716063",
+   "conceptName": "buprenorphine 0.15 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716063",
+     "originalRxcui": "1716063",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002501": {
+   "ndc11": "59385002501",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716075",
+   "conceptName": "buprenorphine 0.6 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716075",
+     "originalRxcui": "1716075",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002360": {
+   "ndc11": "59385002360",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716067",
+   "conceptName": "buprenorphine 0.3 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716067",
+     "originalRxcui": "1716067",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002460": {
+   "ndc11": "59385002460",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716071",
+   "conceptName": "buprenorphine 0.45 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716071",
+     "originalRxcui": "1716071",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002560": {
+   "ndc11": "59385002560",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716075",
+   "conceptName": "buprenorphine 0.6 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716075",
+     "originalRxcui": "1716075",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002601": {
+   "ndc11": "59385002601",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716083",
+   "conceptName": "buprenorphine 0.75 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716083",
+     "originalRxcui": "1716083",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002660": {
+   "ndc11": "59385002660",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716083",
+   "conceptName": "buprenorphine 0.75 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716083",
+     "originalRxcui": "1716083",
+     "startDate": "201711",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002701": {
+   "ndc11": "59385002701",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716090",
+   "conceptName": "buprenorphine 0.9 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716090",
+     "originalRxcui": "1716090",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60505707505": {
+   "ndc11": "60505707505",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "202111",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60505707705": {
+   "ndc11": "60505707705",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "202111",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60505707605": {
+   "ndc11": "60505707605",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542997",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542997",
+     "originalRxcui": "1542997",
+     "startDate": "202111",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60505707805": {
+   "ndc11": "60505707805",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "202111",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "59385002760": {
+   "ndc11": "59385002760",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1716090",
+   "conceptName": "buprenorphine 0.9 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716090",
+     "originalRxcui": "1716090",
+     "startDate": "201710",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687048111": {
+   "ndc11": "60687048111",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202003",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687048121": {
+   "ndc11": "60687048121",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202003",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60505707905": {
+   "ndc11": "60505707905",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "202111",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687049221": {
+   "ndc11": "60687049221",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202003",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687063711": {
+   "ndc11": "60687063711",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202201",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687049211": {
+   "ndc11": "60687049211",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202003",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687062665": {
+   "ndc11": "60687062665",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202201",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "62175045832": {
+   "ndc11": "62175045832",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201611",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687063765": {
+   "ndc11": "60687063765",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "202201",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "60687062611": {
+   "ndc11": "60687062611",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "202201",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "62592049603": {
+   "ndc11": "62592049603",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "213196",
+   "conceptName": "sodium phenylbutyrate 500 MG Oral Tablet [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "213196",
+     "originalRxcui": "213196",
+     "startDate": "200706",
+     "endDate": "201608"
+    },
+    {
+     "activeRxcui": "199369",
+     "originalRxcui": "199369",
+     "startDate": "200706",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "62175045232": {
+   "ndc11": "62175045232",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201611",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "62592018864": {
+   "ndc11": "62592018864",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "984107",
+   "conceptName": "sodium phenylbutyrate 0.94 MG/MG Oral Powder [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "984107",
+     "originalRxcui": "984107",
+     "startDate": "201006",
+     "endDate": "202610"
+    },
+    {
+     "activeRxcui": "984107",
+     "originalRxcui": "749754",
+     "startDate": "200804",
+     "endDate": "201005"
+    },
+    {
+     "activeRxcui": "984105",
+     "originalRxcui": "749751",
+     "startDate": "200804",
+     "endDate": "200901"
+    }
+   ]
+  },
+  "62756046083": {
+   "ndc11": "62756046083",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201603",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "62756097083": {
+   "ndc11": "62756097083",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201702",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "62756096983": {
+   "ndc11": "62756096983",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201702",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "63481020760": {
+   "ndc11": "63481020760",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716063",
+   "conceptName": "buprenorphine 0.15 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716063",
+     "originalRxcui": "1716063",
+     "startDate": "201511",
+     "endDate": "202010"
+    }
+   ]
+  },
+  "62756045983": {
+   "ndc11": "62756045983",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "201603",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "63481016160": {
+   "ndc11": "63481016160",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716079",
+   "conceptName": "buprenorphine 0.075 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716079",
+     "originalRxcui": "1716079",
+     "startDate": "201511",
+     "endDate": "202009"
+    }
+   ]
+  },
+  "63481051960": {
+   "ndc11": "63481051960",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716071",
+   "conceptName": "buprenorphine 0.45 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716071",
+     "originalRxcui": "1716071",
+     "startDate": "201511",
+     "endDate": "202008"
+    }
+   ]
+  },
+  "63481034860": {
+   "ndc11": "63481034860",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716067",
+   "conceptName": "buprenorphine 0.3 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716067",
+     "originalRxcui": "1716067",
+     "startDate": "201511",
+     "endDate": "202009"
+    }
+   ]
+  },
+  "63481068560": {
+   "ndc11": "63481068560",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716075",
+   "conceptName": "buprenorphine 0.6 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716075",
+     "originalRxcui": "1716075",
+     "startDate": "201511",
+     "endDate": "202008"
+    }
+   ]
+  },
+  "63481095260": {
+   "ndc11": "63481095260",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716090",
+   "conceptName": "buprenorphine 0.9 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716090",
+     "originalRxcui": "1716090",
+     "startDate": "201511",
+     "endDate": "202008"
+    }
+   ]
+  },
+  "65162041503": {
+   "ndc11": "65162041503",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351267",
+   "conceptName": "buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351267",
+     "originalRxcui": "351267",
+     "startDate": "201303",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "63481082060": {
+   "ndc11": "63481082060",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "1716083",
+   "conceptName": "buprenorphine 0.75 MG Buccal Film [Belbuca]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1716083",
+     "originalRxcui": "1716083",
+     "startDate": "201511",
+     "endDate": "202101"
+    }
+   ]
+  },
+  "65162041603": {
+   "ndc11": "65162041603",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351266",
+   "conceptName": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351266",
+     "originalRxcui": "351266",
+     "startDate": "201303",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "69238120202": {
+   "ndc11": "69238120202",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904880",
+   "conceptName": "168 HR buprenorphine 0.005 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904880",
+     "originalRxcui": "904880",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "63739013233": {
+   "ndc11": "63739013233",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "993557",
+   "conceptName": "24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MMSL",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "993557",
+     "originalRxcui": "993557",
+     "startDate": "202311",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "68308020830": {
+   "ndc11": "68308020830",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHFDA",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "201011",
+     "endDate": "201309"
+    }
+   ]
+  },
+  "70069002701": {
+   "ndc11": "70069002701",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "MMX",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "202508",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "69238120502": {
+   "ndc11": "69238120502",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904876",
+   "conceptName": "168 HR buprenorphine 0.02 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904876",
+     "originalRxcui": "904876",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "70069002705": {
+   "ndc11": "70069002705",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "238129",
+   "conceptName": "1 ML buprenorphine 0.3 MG/ML Injection",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "238129",
+     "originalRxcui": "238129",
+     "startDate": "202503",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "72888018330": {
+   "ndc11": "72888018330",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351265",
+   "conceptName": "buprenorphine 8 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351265",
+     "originalRxcui": "351265",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "69238120302": {
+   "ndc11": "69238120302",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "904870",
+   "conceptName": "168 HR buprenorphine 0.01 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "904870",
+     "originalRxcui": "904870",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "69238120402": {
+   "ndc11": "69238120402",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1432969",
+   "conceptName": "168 HR buprenorphine 0.015 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1432969",
+     "originalRxcui": "1432969",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "69238150502": {
+   "ndc11": "69238150502",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "1542997",
+   "conceptName": "168 HR buprenorphine 0.0075 MG/HR Transdermal System",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "1542997",
+     "originalRxcui": "1542997",
+     "startDate": "202005",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "72888018230": {
+   "ndc11": "72888018230",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "351264",
+   "conceptName": "buprenorphine 2 MG Sublingual Tablet",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "NDDF",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "351264",
+     "originalRxcui": "351264",
+     "startDate": "202404",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "75987007009": {
+   "ndc11": "75987007009",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "984107",
+   "conceptName": "sodium phenylbutyrate 0.94 MG/MG Oral Powder [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "984107",
+     "originalRxcui": "984107",
+     "startDate": "201511",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "75987006008": {
+   "ndc11": "75987006008",
+   "status": "ACTIVE",
+   "active": "YES",
+   "rxnormNdc": "YES",
+   "rxcui": "213196",
+   "conceptName": "sodium phenylbutyrate 500 MG Oral Tablet [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMSL",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "213196",
+     "originalRxcui": "213196",
+     "startDate": "201511",
+     "endDate": "202610"
+    }
+   ]
+  },
+  "76325018864": {
+   "ndc11": "76325018864",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "984107",
+   "conceptName": "sodium phenylbutyrate 0.94 MG/MG Oral Powder [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "984107",
+     "originalRxcui": "984107",
+     "startDate": "201404",
+     "endDate": "202103"
+    }
+   ]
+  },
+  "76325049603": {
+   "ndc11": "76325049603",
+   "status": "OBSOLETE",
+   "active": "NO",
+   "rxnormNdc": "YES",
+   "rxcui": "213196",
+   "conceptName": "sodium phenylbutyrate 500 MG Oral Tablet [Buphenyl]",
+   "conceptStatus": "ACTIVE",
+   "sourceList": {
+    "sourceName": [
+     "GS",
+     "MMX",
+     "MTHSPL",
+     "RXNORM",
+     "VANDF"
+    ]
+   },
+   "altNdc": "N",
+   "comment": null,
+   "ndcHistory": [
+    {
+     "activeRxcui": "213196",
+     "originalRxcui": "213196",
+     "startDate": "201404",
+     "endDate": "201709"
+    }
+   ]
+  }
+ }
+}

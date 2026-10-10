@@ -1,0 +1,20 @@
+{
+ "DC|3": {
+  "oud_transmucosal": 2904.0,
+  "oud_extended": 0.0,
+  "pain": 0.0,
+  "suppressed_rows": 36
+ },
+ "MN|2": {
+  "oud_transmucosal": 21653.0,
+  "oud_extended": 196.0,
+  "pain": 1102.0,
+  "suppressed_rows": 58
+ },
+ "TX|3": {
+  "oud_transmucosal": 6089.0,
+  "oud_extended": 0.0,
+  "pain": 1280.0,
+  "suppressed_rows": 37
+ }
+}

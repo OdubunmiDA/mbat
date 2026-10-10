@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "name": "Oluwapelumi Odubunmi",
+      "family": "Odubunmi",
+      "given": "Oluwapelumi",
+      "orcid": "0009-0004-8843-5339",
+      "email": "odubunmipelumi@gmail.com",
+      "affiliation": "Department of Pharmaceutical Outcomes and Policy, College of Pharmacy, University of Florida",
+      "roles": ["Conceptualization", "Methodology", "Data curation", "Validation", "Software", "Writing - original draft"],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

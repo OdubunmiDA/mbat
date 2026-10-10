@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Medicaid Buprenorphine Access Tracker (MBAT): state-by-quarter panel of Medicaid buprenorphine, 2016-2027"
+version: "1.0.0"
+date-released: "2026-10-09"
+authors:
+  - family-names: "Odubunmi"
+    given-names: "Oluwapelumi"
+    orcid: "https://orcid.org/0009-0004-8843-5339"
+    email: "odubunmipelumi@gmail.com"
+    affiliation: "Department of Pharmaceutical Outcomes and Policy, College of Pharmacy, University of Florida"
+license: CC-BY-4.0
+keywords:
+  - buprenorphine
+  - opioid use disorder
+  - Medicaid
+  - State Drug Utilization Data
+  - ARCOS
+  - drug overdose
+  - health policy
+  - panel data

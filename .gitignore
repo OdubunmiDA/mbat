@@ -1,0 +1,19 @@
+# raw SDUD annual files are re-downloaded by code/01_fetch.py (about 5 GB)
+data/raw/sdud/*.csv
+data/raw/**/*.part
+data/raw/**/*.new
+data/interim/sdud/sdud_*_bup_candidates.csv
+data/interim/sdud/sdud_*_ndc_index.csv
+data/interim/arcos/*.txt
+!data/interim/arcos/arcos_parse_problems.txt
+__pycache__/
+.env
+*.pem
+.DS_Store
+_to_delete/
+
+# personal working files, not part of the release
+.Rhistory
+**/.Rhistory
+data/processed/ndc_crosswalk_review.xlsx
+~$*

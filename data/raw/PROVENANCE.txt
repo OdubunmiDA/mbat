@@ -1,0 +1,2 @@
+2026-10-08T01:20:00+00:00	ndc_reference/rxnav_ndcstatus_cache.json	157347	1d5bb83599a192fd095930b05ee45f7e45b48887f6a5725e675de8d94ba51946	https://rxnav.nlm.nih.gov/REST/ndcstatus.json?ndc=<ndc11> (266 NDCs, RxNorm 05-Oct-2026; queried via browser)
+2026-10-08T01:29:00+00:00	policy/policy_events_manual.csv	21662	c97ed3ec26c0fcc101e0519f41d914f357456f635f93f8ce791ba2470ef4fb2e	hand-compiled; one source_url per row

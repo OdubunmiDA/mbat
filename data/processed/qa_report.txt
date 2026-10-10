@@ -1,0 +1,195 @@
+MBAT QA report - generated 2026-10-09
+
+1. Row counts by stage (SDUD)
+-----------------------------
+ year     raw rows  candidates  included*  suppressed
+ 2016    4,707,527       9,750      8,889       3,802
+ 2017    4,811,398      11,330     10,533       4,818
+ 2018    4,894,738      13,678     12,815       6,051
+ 2019    4,983,002      17,496     16,491       7,409
+ 2020    4,934,701      18,417     17,318       7,434
+ 2021    5,058,485      18,827     17,748       7,606
+ 2022    5,190,626      20,338     19,213       8,179
+ 2023    5,326,586      21,127     19,837       8,692
+ 2024    5,308,407      23,359     21,997       9,828
+ 2025    5,308,547      23,998     22,663       9,805
+ 2026    1,287,884       5,959      5,635       2,489
+* included = buprenorphine per crosswalk, in the 50 states + DC (national 'XX' and territories excluded)
+
+2. NDC crosswalk
+----------------
+266 candidate NDCs: 240 included, 26 rejected as not buprenorphine (RxNorm).
+Included by group: oud_transmucosal 138, pain 81, oud_extended 21
+Included by form: sublingual_tablet 77, sublingual_film 55, transdermal 46, buccal_film 31, er_injection 19, injection_0.3mg_ml 10, implant 2
+needs_review = 1 for 41 NDCs (reasons: not in FDA NDC Directory files x41)
+Rejected candidates (name matched, RxNorm says not buprenorphine): acetaminophen, bupivacaine, bupropion, sodium
+
+3. Coverage audit: other NDCs from buprenorphine labelers whose names did not match
+-----------------------------------------------------------------------------------
+19009 non-candidate NDCs share a labeler with an included NDC; 0 have names that look like buprenorphine products:
+
+4. Independent reconciliation against raw SDUD files (code/10_reconcile.py)
+---------------------------------------------------------------------------
+state yq      kind    group               raw file      panel  match  why
+NV    2022Q2 named   oud_transmucosal       7,788      7,788  OK   author's home Medicaid program (Nevada)
+NV    2022Q2 named   oud_extended              48         48  OK   
+NV    2022Q2 named   pain                     213        213  OK   
+FL    2025Q4 named   oud_transmucosal      16,128     16,128  OK   large state, managed-care dominated
+FL    2025Q4 named   oud_extended             464        464  OK   
+FL    2025Q4 named   pain                     607        607  OK   
+WY    2018Q1 named   oud_transmucosal         210        210  OK   small state, FFS only
+WY    2018Q1 named   oud_extended               0          0  OK   
+WY    2018Q1 named   pain                       0          0  OK   
+KY    2019Q3 named   oud_transmucosal     147,353    147,353  OK   high-volume state
+KY    2019Q3 named   oud_extended             194        194  OK   
+KY    2019Q3 named   pain                     211        211  OK   
+VT    2019Q2 named   oud_transmucosal      61,320     61,320  OK   highest rate per 1,000 enrollees in the panel
+VT    2019Q2 named   oud_extended              64         64  OK   
+VT    2019Q2 named   pain                      96         96  OK   
+DC    2023Q1 named   oud_transmucosal       2,649      2,649  OK   heavy suppression
+DC    2023Q1 named   oud_extended               0          0  OK   
+DC    2023Q1 named   pain                       0          0  OK   
+PA    2026Q1 named   oud_transmucosal      94,596     94,596  OK   preliminary quarter with a large drop from 2025Q4
+PA    2026Q1 named   oud_extended          11,597     11,597  OK   
+PA    2026Q1 named   pain                   1,158      1,158  OK   
+TX    2021Q3 random  oud_transmucosal       6,089      6,089  OK   random draw, seed 20261008
+TX    2021Q3 random  oud_extended               0          0  OK   
+TX    2021Q3 random  pain                   1,280      1,280  OK   
+MN    2021Q2 random  oud_transmucosal      21,653     21,653  OK   random draw, seed 20261008
+MN    2021Q2 random  oud_extended             196        196  OK   
+MN    2021Q2 random  pain                   1,102      1,102  OK   
+PA    2018Q4 random  oud_transmucosal     149,326    149,326  OK   random draw, seed 20261008
+PA    2018Q4 random  oud_extended             268        268  OK   
+PA    2018Q4 random  pain                     410        410  OK   
+CT    2020Q4 random  oud_transmucosal      38,226     38,226  OK   random draw, seed 20261008
+CT    2020Q4 random  oud_extended             317        317  OK   
+CT    2020Q4 random  pain                   1,913      1,913  OK   
+DC    2021Q3 random  oud_transmucosal       2,904      2,904  OK   random draw, seed 20261008
+DC    2021Q3 random  oud_extended               0          0  OK   
+DC    2021Q3 random  pain                       0          0  OK   
+NV    2019Q2 named   oud_transmucosal       3,953      3,953  OK   Nevada, pre-COVID
+NV    2019Q2 named   oud_extended              57         57  OK   
+NV    2019Q2 named   pain                      53         53  OK   
+NV    2024Q4 named   oud_transmucosal       7,757      7,757  OK   Nevada, post-unwinding
+NV    2024Q4 named   oud_extended             217        217  OK   
+NV    2024Q4 named   pain                     300        300  OK   
+OR    2022Q3 named   oud_transmucosal         297        297  OK   qoq anomaly: Oregon collapse
+OR    2022Q3 named   oud_extended              78         78  OK   
+OR    2022Q3 named   pain                      11         11  OK   
+KY    2023Q2 named   oud_transmucosal     181,771    181,771  OK   qoq anomaly: Kentucky spike
+KY    2023Q2 named   oud_extended           3,778      3,778  OK   
+KY    2023Q2 named   pain                     237        237  OK   
+ME    2024Q2 named   oud_transmucosal      56,132     56,132  OK   qoq anomaly: Maine spike
+ME    2024Q2 named   oud_extended           1,635      1,635  OK   
+ME    2024Q2 named   pain                     388        388  OK   
+CA    2023Q4 named   oud_transmucosal      61,450     61,450  OK   largest-enrollment state
+CA    2023Q4 named   oud_extended           3,627      3,627  OK   
+CA    2023Q4 named   pain                   6,162      6,162  OK   
+
+5. Panel completeness
+---------------------
+2448 state-quarters; 2091 with released SDUD (through 2026Q1); preliminary: 2026Q1
+released state-quarters with missing OUD total: 0
+managed-care reporting gaps (likely incomplete totals): AK 2026Q1, AR 2018Q1, AR 2018Q2, AR 2018Q3, AR 2018Q4, VT 2026Q1, WI 2020Q1, WI 2020Q2, WI 2020Q3, WI 2020Q4
+national OUD prescriptions 2025Q4 -> 2026Q1: -13.9% (preliminary data)
+38.6% of OUD NDC-rows are suppressed; at most 0.6% of OUD prescriptions could sit in suppressed rows (10 per row upper bound).
+
+6. Range checks and outliers
+----------------------------
+rx_oud_per_1k_mbes: n=1938 min=0.29 median=18.22 max=366.06
+rx_oud_per_1k_pi: n=1785 min=0.32 median=22.77 max=405.58
+bup_mg_oud_transmucosal_per_enrollee_mbes: n=1938 min=0.00 median=4.84 max=36.64
+negative values in SDUD measures: 0
+quarter-over-quarter changes > 50% (prior quarter > 1,000 rx): 34 (flagged qoq_anomaly_flag = 1; values left as published)
+  AK 2025Q4: 4,454 -> 10,624 (+139%)  mco_gap=0
+  AZ 2018Q3: 16,843 -> 25,761 (+53%)  mco_gap=0
+  HI 2022Q2: 2,011 -> 3,126 (+55%)  mco_gap=0
+  HI 2023Q1: 2,042 -> 3,173 (+55%)  mco_gap=0
+  IA 2017Q2: 1,013 -> 2,026 (+100%)  mco_gap=0
+  IA 2017Q4: 1,859 -> 3,844 (+107%)  mco_gap=0
+  IA 2019Q3: 3,702 -> 11,576 (+213%)  mco_gap=0
+  ID 2020Q1: 2,304 -> 4,536 (+97%)  mco_gap=0
+  IL 2016Q4: 11,330 -> 18,855 (+66%)  mco_gap=0
+  KS 2017Q3: 1,348 -> 644 (-52%)  mco_gap=0
+  KY 2016Q4: 30,861 -> 102,223 (+231%)  mco_gap=0
+  KY 2020Q1: 104,189 -> 180,418 (+73%)  mco_gap=0
+  KY 2023Q2: 86,500 -> 185,549 (+115%)  mco_gap=0
+  LA 2016Q3: 7,243 -> 11,073 (+53%)  mco_gap=0
+  ME 2024Q2: 27,123 -> 57,767 (+113%)  mco_gap=0
+  MT 2016Q3: 1,743 -> 2,651 (+52%)  mco_gap=0
+  MT 2016Q4: 2,651 -> 5,480 (+107%)  mco_gap=0
+  MT 2018Q2: 15,033 -> 23,484 (+56%)  mco_gap=0
+  MT 2025Q2: 9,789 -> 15,476 (+58%)  mco_gap=0
+  NC 2020Q3: 26,244 -> 68,412 (+161%)  mco_gap=0
+  NH 2019Q1: 11,332 -> 18,340 (+62%)  mco_gap=0
+  NJ 2016Q4: 17,484 -> 41,755 (+139%)  mco_gap=0
+  NV 2022Q4: 5,252 -> 8,186 (+56%)  mco_gap=0
+  NV 2023Q3: 3,180 -> 5,941 (+87%)  mco_gap=0
+  OK 2021Q4: 7,692 -> 15,908 (+107%)  mco_gap=0
+  OK 2023Q2: 17,241 -> 30,544 (+77%)  mco_gap=0
+  OR 2022Q3: 52,480 -> 375 (-99%)  mco_gap=0
+  PA 2017Q2: 94,603 -> 150,447 (+59%)  mco_gap=0
+  UT 2023Q2: 10,651 -> 18,115 (+70%)  mco_gap=0
+  VA 2018Q3: 25,206 -> 40,741 (+62%)  mco_gap=0
+  VT 2017Q3: 33,546 -> 53,200 (+59%)  mco_gap=0
+  VT 2020Q3: 32,769 -> 59,871 (+83%)  mco_gap=0
+  VT 2024Q2: 15,641 -> 32,768 (+110%)  mco_gap=0
+  WV 2017Q4: 44,199 -> 70,950 (+61%)  mco_gap=0
+highest rates: VT 2019Q2 366; VT 2020Q3 339; VT 2020Q4 331
+
+7. Enrollment, ARCOS, CDC, policy
+---------------------------------
+MBES coverage: 1938 released state-quarters; PI: 1836.
+PI / MBES total Medicaid enrollment where both exist: median 0.911, 5th-95th pct 0.75-1.0
+ARCOS buprenorphine: 1632 state-quarters, 2016Q1-2023Q4; parse problems: none
+Sanity: Medicaid transmucosal buprenorphine (g) / ARCOS retail buprenorphine (g), pooled 2016-2023: 36.3% (must be well below 100%)
+state-quarters where Medicaid grams exceed ARCOS retail grams: 0
+CDC: all-drug deaths present for 2091 released state-quarters; opioid deaths missing (CDC suppression for low drug specificity) in 409. Last quarter: 2026Q1
+policy events: 115; KFF vs CMS expansion-date cross-check: 13/15 agree; disagreements: ME (KFF 2019-01-10, CMS 2018-07-01), NC (KFF 2023-12-01, CMS 2023-10-01)
+policy rows still marked VERIFY in policy_events_manual.csv: 0
+
+8. Headline numbers (also in paper/stats.json)
+----------------------------------------------
+sdud_raw_rows_total: 51811901
+sdud_candidate_rows: 184279
+sdud_included_rows: 173139
+sdud_included_rows_suppressed: 76113
+ndc_candidates: 266
+ndc_included: 240
+ndc_excluded_not_buprenorphine: 26
+ndc_needs_review: 41
+ndc_oud_transmucosal: 138
+ndc_pain: 81
+ndc_oud_extended: 21
+coverage_audit_suspicious_ndcs: 0
+qoq_anomaly_cells: 34
+reconciliation_cells: 54
+reconciliation_all_match: True
+panel_rows: 2448
+panel_states: 51
+panel_first_quarter: 2016Q1
+panel_last_quarter: 2027Q4
+sdud_last_released_quarter: 2026Q1
+sdud_released_state_quarters: 2091
+sdud_preliminary_quarters: ['2026Q1']
+mco_reporting_gap_cells: 10
+national_rx_oud_last_vs_prev_pct: -13.9
+share_oud_rows_suppressed_pct: 38.6
+suppression_max_share_of_rx_pct: 0.6
+enroll_pi_to_mbes_ratio_median: 0.911
+enroll_pi_to_mbes_ratio_p5: 0.75
+enroll_pi_to_mbes_ratio_p95: 1.0
+arcos_state_quarters: 1632
+arcos_last_quarter: 2023Q4
+medicaid_transmucosal_mg_as_pct_of_arcos_retail: 36.3
+cdc_last_quarter: 2026Q1
+policy_events: 115
+rx_oud_by_year: {2016: 4074499, 2017: 5278381, 2018: 6662686, 2019: 7865576, 2020: 8972809, 2021: 9220636, 2022: 9354830, 2023: 8717886, 2024: 8473981, 2025: 8415297}
+rx_oud_peak_year: 2022
+rx_oud_2016: 4074499
+rx_oud_2022: 9354830
+rx_oud_2025: 8415297
+rx_oud_pct_change_2016_2022: 129.6
+rx_oud_pct_change_2022_2025: -10.0
+extended_share_of_oud_rx_2025_pct: 5.8
+pain_rx_2025: 163547

@@ -1,0 +1,20 @@
+{
+ "CA|4": {
+  "oud_transmucosal": 61450.0,
+  "oud_extended": 3627.0,
+  "pain": 6162.0,
+  "suppressed_rows": 89
+ },
+ "DC|1": {
+  "oud_transmucosal": 2649.0,
+  "oud_extended": 0.0,
+  "pain": 0.0,
+  "suppressed_rows": 40
+ },
+ "KY|2": {
+  "oud_transmucosal": 181771.0,
+  "oud_extended": 3778.0,
+  "pain": 237.0,
+  "suppressed_rows": 67
+ }
+}

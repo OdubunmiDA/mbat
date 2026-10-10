@@ -1,0 +1,19 @@
+state,year,quarter,kind,why
+NV,2022,2,named,author's home Medicaid program (Nevada)
+FL,2025,4,named,"large state, managed-care dominated"
+WY,2018,1,named,"small state, FFS only"
+KY,2019,3,named,high-volume state
+VT,2019,2,named,"highest rate per 1,000 enrollees in the panel"
+DC,2023,1,named,heavy suppression
+PA,2026,1,named,preliminary quarter with a large drop from 2025Q4
+TX,2021,3,random,"random draw, seed 20261008"
+MN,2021,2,random,"random draw, seed 20261008"
+PA,2018,4,random,"random draw, seed 20261008"
+CT,2020,4,random,"random draw, seed 20261008"
+DC,2021,3,random,"random draw, seed 20261008"
+NV,2019,2,named,"Nevada, pre-COVID"
+NV,2024,4,named,"Nevada, post-unwinding"
+OR,2022,3,named,qoq anomaly: Oregon collapse
+KY,2023,2,named,qoq anomaly: Kentucky spike
+ME,2024,2,named,qoq anomaly: Maine spike
+CA,2023,4,named,largest-enrollment state

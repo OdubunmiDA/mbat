@@ -1,0 +1,14 @@
+{
+ "NV|2": {
+  "oud_transmucosal": 7788.0,
+  "oud_extended": 48.0,
+  "pain": 213.0,
+  "suppressed_rows": 63
+ },
+ "OR|3": {
+  "oud_transmucosal": 297.0,
+  "oud_extended": 78.0,
+  "pain": 11.0,
+  "suppressed_rows": 56
+ }
+}

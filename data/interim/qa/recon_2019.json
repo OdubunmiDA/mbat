@@ -1,0 +1,20 @@
+{
+ "KY|3": {
+  "oud_transmucosal": 147353.0,
+  "oud_extended": 194.0,
+  "pain": 211.0,
+  "suppressed_rows": 32
+ },
+ "NV|2": {
+  "oud_transmucosal": 3953.0,
+  "oud_extended": 57.0,
+  "pain": 53.0,
+  "suppressed_rows": 73
+ },
+ "VT|2": {
+  "oud_transmucosal": 61320.0,
+  "oud_extended": 64.0,
+  "pain": 96.0,
+  "suppressed_rows": 23
+ }
+}

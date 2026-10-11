@@ -51,5 +51,5 @@
 ## Before it goes public
 - [x] (OO 2026-10-09) README and LIMITATIONS read in full and approved by you (drafted with Claude; disclosed in README). Any manuscript still written in your own voice
 - [x] (2026-10-09; gate clear) Figures regenerated with `python code/12_figures.py --final`; draft banners removed from docs; `python tools/publish_gate.py . --allow-draft-in code/ tools/ data/interim/ --skip data/raw/sdud/ _to_delete/` passes
-- [ ] `AUTHORS.json`, `CITATION.cff` and the Zenodo metadata name you identically
-- [ ] Evidence-log row written the day the DOI is minted
+- [x] (OO 2026-10-11; Zenodo record checked: Dataset, CC BY 4.0, ORCID) `AUTHORS.json`, `CITATION.cff` and the Zenodo metadata name you identically
+- [x] (2026-10-11; DECISIONS.md release row: version DOI 10.5281/zenodo.23298617, concept DOI 10.5281/zenodo.23298616) Evidence-log row written the day the DOI is minted

@@ -1,6 +1,10 @@
 # Medicaid Buprenorphine Access Tracker (MBAT)
 
-**Status: v1.0.0 (2026-10-09), verified by the author ([`docs/VERIFICATION_REPORT.md`](docs/VERIFICATION_REPORT.md)). Planned updates: v1.1 (March 2027) and v1.2 (July 2027) on Zenodo. DOI: added at release.**
+**Status: v1.0.0 (2026-10-09), verified by the author ([`docs/VERIFICATION_REPORT.md`](docs/VERIFICATION_REPORT.md)). Planned updates: v1.1 (March 2027) and v1.2 (July 2027).**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23298616.svg)](https://doi.org/10.5281/zenodo.23298616)
+
+Cite all versions: [10.5281/zenodo.23298616](https://doi.org/10.5281/zenodo.23298616). This version (v1.0.0): [10.5281/zenodo.23298617](https://doi.org/10.5281/zenodo.23298617).
 
 MBAT is a public, state-by-quarter panel of Medicaid-paid buprenorphine for opioid use disorder (OUD) in the 50 states and DC, 2016Q1–2027Q4. I built it because CMS State Drug Utilization Data (SDUD) are public but hard to use for buprenorphine: NDCs enter and leave the market, pain formulations share the same ingredient as OUD products, and small counts are suppressed. MBAT does that work once, documents every decision, and links the result to Medicaid enrollment, DEA ARCOS retail distribution, CDC provisional overdose deaths, and dated Medicaid policy events. Every input is a public download, so no data use agreement is needed.
 
@@ -78,7 +82,7 @@ See [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md). The ones most likely to matter
 
 ## License and citation
 
-Code: MIT (`LICENSE`). Data and documentation: CC BY 4.0 (`LICENSE-DATA.md`), with attribution to CMS, DEA, CDC/NCHS, FDA and NLM as the underlying public sources. Cite using `CITATION.cff`. The DOI will be added at release.
+Code: MIT (`LICENSE`). Data and documentation: CC BY 4.0 (`LICENSE-DATA.md`), with attribution to CMS, DEA, CDC/NCHS, FDA and NLM as the underlying public sources. Cite using `CITATION.cff` or the DOIs above.
 
 ## Maintainer
 

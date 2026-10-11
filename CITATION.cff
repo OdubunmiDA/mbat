@@ -3,7 +3,13 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Medicaid Buprenorphine Access Tracker (MBAT): state-by-quarter panel of Medicaid buprenorphine, 2016-2027"
 version: "1.0.0"
-date-released: "2026-10-09"
+date-released: "2026-10-11"
+doi: "10.5281/zenodo.23298616"
+repository-code: "https://github.com/OdubunmiDA/mbat"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23298617"
+    description: "MBAT v1.0.0"
 authors:
   - family-names: "Odubunmi"
     given-names: "Oluwapelumi"
